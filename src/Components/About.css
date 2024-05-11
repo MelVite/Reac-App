@@ -1,0 +1,28 @@
+.about-container {
+    display: flex;
+    flex-direction: row;
+    background-color: #5b0c36;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.50) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    padding: 20px 20px;
+    margin: 100px 10px;
+    text-align: left;
+}
+
+img {
+    width: 40px;
+}
+
+.container {
+    padding-top: 0;
+    padding-left: 30px;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 1rem;
+    margin: 0;
+}
